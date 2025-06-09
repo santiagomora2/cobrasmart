@@ -55,7 +55,7 @@ CobraSmart sigue estos pasos:
 | **Streamlit**       | Creación de la interfaz web interactiva            |
 | **scikit-learn**    | Entrenamiento de modelos como Random Forest        |
 | **Keras / TensorFlow** | Red neuronal para regresión                       |
-| **PyMC3 / PyStan / sklearn.naive_bayes** | Modelos bayesianos (según implementación)   |
+| **R / Rstudio** | Modelos bayesianos (según implementación)   |
 | **Pandas & NumPy**  | Manipulación de datos                              |
 | **Matplotlib & Seaborn** | Visualización de gráficos                      |
 
