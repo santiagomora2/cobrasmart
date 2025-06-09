@@ -57,7 +57,6 @@ CobraSmart sigue estos pasos:
 | **Keras / TensorFlow** | Red neuronal para regresión                       |
 | **R / Rstudio** | Modelos bayesianos (según implementación)   |
 | **Pandas & NumPy**  | Manipulación de datos                              |
-| **Matplotlib & Seaborn** | Visualización de gráficos                      |
 
 ---
 
