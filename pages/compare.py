@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 # Variables relevantes
 variables = ['Saldo_Mes_M1', 'dias_deudados_m1', 'Pago_M2', 'Variable_Objetivo_m2', 
