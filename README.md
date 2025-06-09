@@ -63,3 +63,13 @@ CobraSmart sigue estos pasos:
 
 🧾 Licencia
 Este proyecto está bajo la Licencia MIT — consulta el archivo LICENSE para más información.
+
+---
+✍️ Autor
+Santiago Mora Cruz
+Gabriel Eduardo Meléndez Zavala
+Melanie Astrid Montaño Ramos
+Victoria González González
+María Fernanda Gamboa Martínez
+
+Estudiantes de Ingeniería en Ciencia de Datos y Matemáticas.
