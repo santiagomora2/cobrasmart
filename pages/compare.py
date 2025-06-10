@@ -104,7 +104,8 @@ def main():
     tabla_resultados = df[['Cliente', 'Pago Real']].copy()
 
     # Agregar predicciones
-    for modelo in ['Random Forest', 'Red Neuronal', 'Bayesiano']:
+    # for modelo in ['Random Forest', 'Red Neuronal', 'Bayesiano']:
+    for modelo in ['Random Forest', 'Bayesiano']:
         tabla_resultados[modelo] = tabla_resultados['Cliente'].apply(
             lambda c: predicciones_modelos[producto_seleccionado][c][modelo]
         )
