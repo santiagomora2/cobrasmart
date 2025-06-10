@@ -34,7 +34,7 @@ def main():
     Buscamos:
     - **Segmentar la cartera de clientes** por productos y grupos.
     - Construir modelos predictivos para **predecir cuánto pagará cada cliente** y comparar estos modelos.
-    - Generar **estragtegias de cobranza** basado en el segmento y predicción de cada cliente, para facilitar la recuperación de deuda de la institución.
+    - Generar **estrategias de cobranza** basado en el segmento y predicción de cada cliente, para facilitar la recuperación de deuda de la institución.
     - Crear una **interfaz clara** que permita a cualquier analista explorar los resultados.  
 
     Para lograrlo, segmentamos a los clientes usando **segmentación ABC**, desarrollamos modelos de machine learning capaces de **predecir cuánto pagará un cliente en un mes dado**, con base en información histórica de pagos, saldos, edades y segmentos.
