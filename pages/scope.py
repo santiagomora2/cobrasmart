@@ -97,7 +97,6 @@ def main():
                                 
         **Desventajas**
         - Requiere muchos recursos computacionales para correr.
-        - Poco interpretable.
         """)
 
     # Resultados
